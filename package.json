@@ -1,7 +1,7 @@
 {
   "name": "minimus-light-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Truly minimal atom highlighting (light).",
   "keywords": [
     "syntax",
