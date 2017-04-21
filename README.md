@@ -1,5 +1,5 @@
-# minimus-syntax theme
+# minimus-light-syntax theme
 
-A short description of your theme.
+Combines what I consider to the best of no-syntax-highlighting-syntax package (removing highlighting except for comments) and solarized (for color familiarity and coordination), in a light variant.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](screencap_light.png)

@@ -2,10 +2,12 @@
   "name": "minimus-light-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Truly minimal atom highlighting (light).",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "minimal",
+    "light"
   ],
   "repository": "https://github.com/theqabalist/minimus-light-syntax",
   "license": "MIT",
